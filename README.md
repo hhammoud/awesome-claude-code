@@ -194,6 +194,7 @@ Claude Code is a CLI-based coding assistant from [Anthropic](https://www.anthrop
 
 ### Orchestrators
 
+- [AgentsInFlow](https://github.com/hhammoud/AgentsInFlow) by [Hassan Hammoud](https://github.com/hhammoud) - Desktop app for orchestrating AI coding agents (Claude Code, Codex, Cursor) from a single window with context persistence, token analytics, runtime MCP injection, and isolated git worktree branching. Engine-agnostic — supports multiple AI coding CLIs from one Kanban-style command center.
 - [Auto-Claude](https://github.com/AndyMik90/Auto-Claude) by [AndyMik90](https://github.com/AndyMik90) - Autonomous multi-agent coding framework for Claude Code (Claude Agent SDK) that integrates the full SDLC - "plans, builds, and validates software for you". Features a slick kanban-style UI and a well-designed but not over-engineered agent orchestration system.
 - [Claude Code Flow](https://github.com/ruvnet/claude-code-flow) by [ruvnet](https://github.com/ruvnet) - This mode serves as a code-first orchestration layer, enabling Claude to write, edit, test, and optimize code autonomously across recursive agent cycles.
 - [Claude Squad](https://github.com/smtg-ai/claude-squad) by [smtg-ai](https://github.com/smtg-ai) - Claude Squad is a terminal app that manages multiple Claude Code, Codex (and other local agents including Aider) in separate workspaces, allowing you to work on multiple tasks simultaneously.
